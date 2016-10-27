@@ -5,10 +5,13 @@ Customer View
 After Purchase
 ![GitHub Logo](images/snap_2.PNG)
 
+Manager View
 ![GitHub Logo](images/snap_3.PNG)
 
+view Products for Sale
 ![GitHub Logo](images/snap_4.PNG)
 
+view Low Inventory
 ![GitHub Logo](images/snap_5.PNG)
 
 ![GitHub Logo](images/snap_6.PNG)
