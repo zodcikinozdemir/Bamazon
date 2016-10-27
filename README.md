@@ -8,15 +8,17 @@ After Purchase
 Manager View
 ![GitHub Logo](images/snap_3.PNG)
 
-view Products for Sale
 ![GitHub Logo](images/snap_4.PNG)
+view Products for Sale
 
-view Low Inventory
 ![GitHub Logo](images/snap_5.PNG)
+View Low Inventory
 
 ![GitHub Logo](images/snap_6.PNG)
+Add to Inventory
 
 ![GitHub Logo](images/snap_7.PNG)
+Add New Product
 
 ![GitHub Logo](images/snap_8.PNG)
 
