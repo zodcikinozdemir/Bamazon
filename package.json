@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront",
+  "main": "Bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zodcikinozdemir/Bamazon.git"
+  },
+  "keywords": [
+    "Node.js",
+    "MySQL"
+  ],
+  "author": "Zeynep Ozdemir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zodcikinozdemir/Bamazon/issues"
+  },
+  "homepage": "https://github.com/zodcikinozdemir/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
