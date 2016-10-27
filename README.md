@@ -1,8 +1,10 @@
 # Bamazon
 ![GitHub Logo](images/snap_1.PNG)
 
+Customer View
 ![GitHub Logo](images/snap_2.PNG)
 
+After Purchase
 ![GitHub Logo](images/snap_3.PNG)
 
 ![GitHub Logo](images/snap_4.PNG)
