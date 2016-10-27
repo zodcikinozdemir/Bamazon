@@ -151,7 +151,7 @@ function customerViewforBamazon() {
                                 console.log("Product :" + chosenItem.ProductName + " Quantity : "+qty);
                                 console.log("Total Amount : $"+ qty*chosenItem.Price);
                             }
-                          });
+                          })
                        } else {
                           console.log("Insufficient quantity!");
                        }
@@ -161,9 +161,8 @@ function customerViewforBamazon() {
               }
               
            }
-           console.log("buraya");
-       });
-   });
+       })
+   })
 }
 
 function startBamazon() {
